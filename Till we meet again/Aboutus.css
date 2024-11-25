@@ -1,0 +1,30 @@
+h1{
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;  
+}
+  
+#Our{
+ text-align: center;
+ margin-top: 300px;   
+}
+
+body{
+ background-color:green;
+ color: white;   
+}
+
+a:hover{
+    background-color:yellowgreen
+  }
+
+  li{
+    list-style-type:none;
+    margin: -8px;
+    padding:20px;
+  }
+
+a{
+    text-decoration:none;
+   color:lawngreen;
+     padding:20px;
+   } 
